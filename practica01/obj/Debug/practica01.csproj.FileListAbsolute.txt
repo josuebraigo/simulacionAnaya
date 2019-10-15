@@ -1,0 +1,20 @@
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.csprojAssemblyReference.cache
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.Form1.resources
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.Properties.Resources.resources
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.csproj.GenerateResource.cache
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.csproj.CoreCompileInputs.cache
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\bin\Debug\practica01.exe.config
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\bin\Debug\practica01.exe
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\bin\Debug\practica01.pdb
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.exe
+C:\Users\casti\Documents\7mo Semestre\06 Simulación Por Computadora\2da Oportunidad\practica01\practica01\obj\Debug\practica01.pdb
+C:\Users\chicloket6\Desktop\practica01\practica01\bin\Debug\practica01.exe.config
+C:\Users\chicloket6\Desktop\practica01\practica01\bin\Debug\practica01.exe
+C:\Users\chicloket6\Desktop\practica01\practica01\bin\Debug\practica01.pdb
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.csprojAssemblyReference.cache
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.Form1.resources
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.Properties.Resources.resources
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.csproj.GenerateResource.cache
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.csproj.CoreCompileInputs.cache
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.exe
+C:\Users\chicloket6\Desktop\practica01\practica01\obj\Debug\practica01.pdb
